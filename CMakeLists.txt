@@ -1,3 +1,5 @@
+project(imgui)
+
 file(GLOB ImGui_SOURCES *.cpp)
 file(GLOB ImGui_HEADERS *.h)
 
